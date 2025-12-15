@@ -1,0 +1,16 @@
+{
+  "name": "til",
+  "version": "1.0.0",
+  "description": "Today I Learned",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node javascript/closure/test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.9.3"
+  }
+}
